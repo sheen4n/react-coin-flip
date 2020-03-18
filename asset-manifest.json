@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-coin-flip/static/css/main.b66bf942.chunk.css",
+    "main.js": "/react-coin-flip/static/js/main.9aa2ce9f.chunk.js",
+    "main.js.map": "/react-coin-flip/static/js/main.9aa2ce9f.chunk.js.map",
+    "runtime-main.js": "/react-coin-flip/static/js/runtime-main.8fd5990c.js",
+    "runtime-main.js.map": "/react-coin-flip/static/js/runtime-main.8fd5990c.js.map",
+    "static/js/2.b04e1411.chunk.js": "/react-coin-flip/static/js/2.b04e1411.chunk.js",
+    "static/js/2.b04e1411.chunk.js.map": "/react-coin-flip/static/js/2.b04e1411.chunk.js.map",
+    "index.html": "/react-coin-flip/index.html",
+    "precache-manifest.d0a441f5273b8b5f9b7e2c2c08a6beca.js": "/react-coin-flip/precache-manifest.d0a441f5273b8b5f9b7e2c2c08a6beca.js",
+    "service-worker.js": "/react-coin-flip/service-worker.js",
+    "static/css/main.b66bf942.chunk.css.map": "/react-coin-flip/static/css/main.b66bf942.chunk.css.map",
+    "static/js/2.b04e1411.chunk.js.LICENSE.txt": "/react-coin-flip/static/js/2.b04e1411.chunk.js.LICENSE.txt",
+    "static/media/heads.jpg": "/react-coin-flip/static/media/heads.99a10729.jpg",
+    "static/media/tails.jpg": "/react-coin-flip/static/media/tails.43f803d7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd5990c.js",
+    "static/js/2.b04e1411.chunk.js",
+    "static/css/main.b66bf942.chunk.css",
+    "static/js/main.9aa2ce9f.chunk.js"
+  ]
+}
